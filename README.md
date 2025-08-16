@@ -25,6 +25,6 @@ Here is how to do it for option...
 
 [0X001]
 
-File - Notification1
+File - Notification1 
 Desc - Too few arguments were given (1). The script could not determine where Client is!
 
