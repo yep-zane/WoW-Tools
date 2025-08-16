@@ -1,16 +1,11 @@
-Yb        dP  dP"Yb  Yb        dP     888888  dP"Yb   dP"Yb  88     .dP"Y8 
- Yb  db  dP  dP   Yb  Yb  db  dP        88   dP   Yb dP   Yb 88     `Ybo." 
-  YbdPYbdP   Yb   dP   YbdPYbdP         88   Yb   dP Yb   dP 88  .o o.`Y8b 
-   YP  YP     YbodP     YP  YP          88    YbodP   YbodP  88ood8 8bodP' 
+# WoW Tools
 
-Version 4.Z.RC1 - WoW WOLTK Server Management Utility
+Version 4.0 Public - WoW WOLTK Server Management Utility
 
-This version focused on completing all features currently possible! This was finished on 15.08.25 at 23:27. Supports Trinity AC-Repack WoW Wotlk Server! 
-Ensure the config file is setup correctly before 
+This version focused on completing all features currently possible! This was finished on 16.08.25 at 2:12AM. Supports Trinity AC-Repack WoW Wotlk Server! For more infomation regarding TrinityCore setup please visit https://www.trinitycore.org/ As of the first release there is currently a few features missing! The setup script may not apply your drive letter config right. In that case you just need to navigate into the Logic folder, open the config.txt file and put the drive letter for the drive your client is located on (C:,D:,E:,F:) next to where it says 'CLIENTMOUNTPOINT='
 
-==============================
-How do I use the setup script?
-==============================
+# How do I use the setup script?
+
 
 Here is how to do it for option...
 
