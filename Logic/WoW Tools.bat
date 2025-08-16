@@ -102,23 +102,7 @@ cls
 "WoW Tools.bat"
 
 :opthree
-cls
-"WoW Tools.bat"
-echo. 
-echo. (3) Make user account
-echo
-cd %SERVERDIR%
-cd "_Server"
- 
-set DB_USER=root
-set DB_PASS=ascent
-set DB_NAME=auth
-
-REM Prompt for new account credentials
-set /p USERNAME=Enter new username: 
-set /p PASSWORD=Enter new password: 
-
-mysql -u root -p ascent auth -e "INSERT INTO account (username, sha_pass_hash, gmlevel, expansion) VALUES ('newuser', UPPER(MD5(CONCAT(LOWER('newuser'),':','newpass'))), 0, 2);"
+echo. (3) Currently Unavalible, due to be added in V4.1
 
 :opfour
 echo.
@@ -182,3 +166,4 @@ cls
 echo.
 
 :opnine
+
